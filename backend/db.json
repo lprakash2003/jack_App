@@ -1,0 +1,330 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Prakash ",
+      "age": "21",
+      "email": "123@gmail.com",
+      "mobile": "9346269190",
+      "city": "Nagari"
+    },
+    {
+      "id": "2",
+      "name": "Gayatheri",
+      "age": "21",
+      "email": "123@gmail.com",
+      "mobile": "9346269190",
+      "city": "Nagari"
+    },
+    {
+      "id": "3",
+      "name": "Annu madhu",
+      "age": "20",
+      "email": "123@gmail.com",
+      "mobile": "9346269234",
+      "city": "Nagari"
+    }
+  ],
+  "learn": [
+    {
+      "img": "https://img.freepik.com/premium-vector/watch-gold-silver-diamonds-design-white_33869-131.jpg?size=626&ext=jpg&ga=GA1.1.901529343.1693293836&semt=ais",
+      "id": "1",
+      "brand": "Rolex 1",
+      "model": "GMT-Master II",
+      "year": "2014",
+      "price": "35000"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/stylish-golden-watch-white-surface_181624-27078.jpg?w=740&t=st=1701418627~exp=1701419227~hmac=6cdb368c1a6db70231e3184554e56cec9ec069a34946709454201cd612f6f7e7",
+      "id": "2",
+      "brand": "Rolex 2",
+      "model": "GMT-Master II",
+      "year": "2015",
+      "price": "45000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-photo/luxury-watches-isolated-white-background-with-clipping-path-gold-watch-women-man-watches-female-male-watches_262663-684.jpg?w=740",
+      "id": "3",
+      "brand": "Rolex 3",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "price": "35000"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?t=st=1701418627~exp=1701419227~hmac=2958335fada75cad27efffd08d48e3a97e4a6cc795d4a497ee933d6a9210b8c1",
+      "id": "4",
+      "brand": "Rolex 4",
+      "model": "GMT-Master II",
+      "year": "2017",
+      "price": "39000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-photo/luxury-watches-isolated-white-background-with-clipping-path-gold-watch-women-man-watches-female-male-watches_262663-689.jpg?size=626&ext=jpg",
+      "id": "5",
+      "brand": "Rolex 5",
+      "model": "GMT-Master II",
+      "year": "2019",
+      "price": "30000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/realistic-silver-watch-clock-dark-grey-face-design-men-fashion-white-background_33869-2270.jpg?size=626&ext=jpg",
+      "id": "6",
+      "brand": "Rolex 6",
+      "model": "GMT-Master II",
+      "year": "2017",
+      "price": "55000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-photo/closeup-shot-modern-wristwatch-white-background_181624-57800.jpg?w=740",
+      "id": "7",
+      "brand": "Rolex 7",
+      "model": "GMT-Master II",
+      "year": "2019",
+      "price": "70000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/realistic-black-wrist-watch-with-metal-strap-illustration_687742-9.jpg?size=626&ext=jpg",
+      "id": "8",
+      "brand": "Rolex 8",
+      "model": "GMT-Master II",
+      "year": "2020",
+      "price": "115000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/realistic-silver-watch-clock-dark-grey-face-design-men-fashion-white-background_33869-2270.jpg?size=626&ext=jpg",
+      "id": "9",
+      "brand": "Rolex 9",
+      "model": "GMT-Master II",
+      "year": "2021",
+      "price": "135000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-photo/luxury-watches-isolated-white-background-with-clipping-path-gold-watch-women-man-watches-female-male-watches_262663-686.jpg?size=626&ext=jpg",
+      "id": "10",
+      "brand": "Rolex 10",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "price": "125000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/realistic-gold-watch-clock-dark-brown-face-design-men-fashion-white-background_33869-2267.jpg?size=626&ext=jpg",
+      "id": "11",
+      "brand": "Rolex 11",
+      "model": "GMT-Master II",
+      "year": "2023",
+      "price": "300000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/analog-watch-mens-wristwatch-white_123447-34.jpg?size=626&ext=jpg ",
+      "id": "12",
+      "brand": "Rolex 12",
+      "model": "GMT-Master II",
+      "year": "2023",
+      "price": "235000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/watch-gold-silver-diamonds-design-white_33869-131.jpg?size=626&ext=jpg&ga=GA1.1.901529343.1693293836&semt=ais",
+      "id": "13",
+      "brand": "Rolex 13 ",
+      "model": "GMT-Master II",
+      "year": "2017",
+      "price": "39000"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?t=st=1701418627~exp=1701419227~hmac=2958335fada75cad27efffd08d48e3a97e4a6cc795d4a497ee933d6a9210b8c1",
+      "id": "14",
+      "brand": "Rolex 14",
+      "model": "GMT-Master II",
+      "year": "2018",
+      "price": "49000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/realistic-silver-watch-clock-dark-grey-face-design-men-fashion-white-background_33869-2270.jpg?size=626&ext=jpg",
+      "id": "15",
+      "brand": "Rolex 15",
+      "model": "GMT-Master II",
+      "year": "2019",
+      "price": "55000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/realistic-black-wrist-watch-with-metal-strap-illustration_687742-9.jpg?size=626&ext=jpg",
+      "id": "16",
+      "brand": "Rolex 16",
+      "model": "GMT-Master II",
+      "year": "2020",
+      "price": "115000"
+    }
+  ],
+  "brand": [
+    {
+      "img": "https://img.freepik.com/premium-photo/luxury-watches-isolated-white-background-with-clipping-path-gold-watch-women-man-watches-female-male-watches_262663-684.jpg?w=740",
+      "id": "3",
+      "brand": "Rolex 3",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "price": "35000"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?t=st=1701418627~exp=1701419227~hmac=2958335fada75cad27efffd08d48e3a97e4a6cc795d4a497ee933d6a9210b8c1",
+      "id": "4",
+      "brand": "Rolex 4",
+      "model": "GMT-Master II",
+      "year": "2017",
+      "price": "39000"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/watch-gold-silver-diamonds-design-white_33869-131.jpg?size=626&ext=jpg&ga=GA1.1.901529343.1693293836&semt=ais",
+      "id": "1",
+      "brand": "Rolex 1",
+      "model": "GMT-Master II",
+      "year": "2014",
+      "price": "35000"
+    }
+  ],
+  "details": [
+    {
+      "id": "1",
+      "brand": "Rolex 1",
+      "model": "GMT-Master II",
+      "year": "2014",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "35000"
+    },
+    {
+      "id": "2",
+      "brand": "Rolex 2",
+      "model": "GMT-Master II",
+      "year": "2015",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "45000"
+    },
+    {
+      "id": "3",
+      "brand": "Rolex 3",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "reference": "116500 LN - 78590",
+      "complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "35000"
+    },
+    {
+      "id": "4",
+      "brand": "Rolex 4",
+      "model": "GMT-Master II",
+      "year": "2017",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "39000"
+    },
+    {
+      "id": "5",
+      "brand": "Rolex 5",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "6",
+      "brand": "Rolex 6",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "7",
+      "brand": "Rolex 7",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "8",
+      "brand": "Rolex 8",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "9",
+      "brand": "Rolex 9",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "10",
+      "brand": "Rolex 10",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "11",
+      "brand": "Rolex 11",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "12",
+      "brand": "Rolex 12",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "13",
+      "brand": "Rolex 13",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "14",
+      "brand": "Rolex 14",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "15",
+      "brand": "Rolex 15",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    },
+    {
+      "id": "16",
+      "brand": "Rolex 16",
+      "model": "GMT-Master II",
+      "year": "2022",
+      "Reference": "116500 LN - 78590",
+      "Complement": "Steel - Black Cerachrom Bezel - White and Black Dial - Steel Bracelet",
+      "price": "125000"
+    }
+  ]
+}
